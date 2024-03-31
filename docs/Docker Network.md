@@ -1,0 +1,1 @@
+Docker networks are a fundamental feature that enable communication between Docker containers and/or between containers and the outside world. They provide isolated environments for containers to communicate securely while offering flexibility in terms of connectivity and network configurations.

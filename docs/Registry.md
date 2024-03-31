@@ -1,0 +1,1 @@
+A storage and distribution system for Docker images. Docker Hub is the default public registry provided by Docker, but you can also set up private registries to store your own Docker images.

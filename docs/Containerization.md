@@ -1,0 +1,1 @@
+The process of packaging an application and its dependencies into isolated containers. Each container runs a separate instance of the application, isolated from others and from the host system.
