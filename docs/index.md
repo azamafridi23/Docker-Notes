@@ -1,7 +1,6 @@
 # Obsidian Notes
 
 ## Table of Content
-
 - [[Docker Intro]]
 - [[Docker Image]]
 - [[Docker Container]]
